@@ -37,7 +37,8 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,tanStack" alt="Frontend skills"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" alt="Frontend skills"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
 </p>
 
 ### ⚙️ Backend & Database
