@@ -37,7 +37,7 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,tanStackQuery" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,tanStack" alt="Frontend skills"/>
 </p>
 
 ### ⚙️ Backend & Database
